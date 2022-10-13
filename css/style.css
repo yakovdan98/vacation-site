@@ -1,3 +1,19 @@
-.second-pg {
+HTML {
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,0.4881730769230769) 77%, rgba(0,212,255,1) 100%);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card-text {
+  padding-top: 10px;
+}
+
+.reviews {
+  padding-top: 10px;
+  
+}
+
+.card-text li {
+  font-style: italic;
+
 }
