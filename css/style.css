@@ -17,3 +17,19 @@ HTML {
   font-style: italic;
 
 }
+
+.bg-primary {
+  padding: 10px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
