@@ -30,10 +30,13 @@ a:visited {
   color: black;
 }
 
-a:hover {
+a:hover{
   text-decoration: none;
-
+  color: blue;
 }
+
+
+
 
 .jumbotron {
   position: relative;
@@ -66,7 +69,7 @@ a:hover {
         left: 0rem;
     }
 
-    10% {
+    40% {
       top: 6vh;
       background-color: red;
         
@@ -77,6 +80,6 @@ a:hover {
     }
 
     to {
-      top: 6vh;
+      top: 4vh;
     }
   }
